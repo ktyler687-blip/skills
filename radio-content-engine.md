@@ -1,301 +1,178 @@
-# LiveLiveRadio — Daily Content Engine & Growth System
-**Target:** https://liveliveradio.wordpress.com  
+# LiveLiveRadio — Optimized High-Performance Content
+**Target:** https://liveliveradio.wordpress.com
 **Daily Goal:** 1,000+ views/day → continuous growth loop
 
 ---
 
-## STEP 1 — DAILY CONTENT BATCH
+## 15 TIKTOK HOOKS — MAX VIRALITY EDITION
 
-### 15 TikTok Hooks
-
-1. "This song hits different at 2am and you already know which one…"
-2. "You forgot how hard this track goes. I'll wait. 🔥"
-3. "Real ones remember when this came on the radio and you had to call the station to find out the name…"
-4. "POV: You stumbled onto a radio station that actually plays the right songs 👀"
-5. "That feeling when the DJ knows EXACTLY what you needed to hear tonight…"
-6. "Nobody talks about how therapeutic live radio is at midnight."
-7. "This throwback just hit my stream and I literally stopped what I was doing."
-8. "The algorithm will never understand what a good DJ already knows."
-9. "Tell me you have good taste without telling me — I'll go first 🎵"
-10. "Bro the vibes on this station right now are UNMATCHED."
-11. "Every time I turn this on, it plays exactly what I'm feeling. Scary."
-12. "The song that was on the radio the summer everything changed…"
-13. "We don't talk enough about how a good intro can save your whole day."
-14. "Y'all sleeping on live radio. The algorithm doesn't have this."
-15. "This beat is from 2003 and it still KNOCKS harder than anything dropping now."
+1. "Stop scrolling. I need you to hear this song RIGHT NOW." *(pattern interrupt — forces a pause)*
+2. "I turned on a random radio station at 3am and it played the exact song I needed. I genuinely started crying." *(emotional specificity = shares)*
+3. "The song that played at prom. On the drive home from the hospital. On the worst night of your life. It's in rotation right now." *(memory anchoring)*
+4. "POV: The DJ just played your song without you requesting it. And you haven't heard it in 10 years." *(POV format = massive reach)*
+5. "This station has been playing nonstop since 2am and I have work in 3 hours and I DON'T CARE." *(relatable confession = comments explode)*
+6. "The song that was EVERYWHERE in [year] and then completely disappeared — just came on my stream." *(gap in the line forces completion)*
+7. "Why does live radio hit 10x harder than any playlist? Science can't explain this." *(controversy + curiosity = debate in comments)*
+8. "I put this station on during my drive and ended up sitting in the parking lot for 45 minutes. You'll understand when you hear it." *(open loop — viewer must click to close it)*
+9. "Tell me what year you graduated high school. I'll tell you exactly what's playing for you right now." *(comment bait — hundreds of replies)*
+10. "This is the last radio station on earth that plays music like this. I'm not exaggerating." *(scarcity + urgency)*
+11. "My dad used to blast this in the car every Sunday. He's gone now. Heard it tonight and had to pull over." *(grief + nostalgia = maximum emotional engagement)*
+12. "The algorithm is scared of stations like this. Real talk." *(tribalism — 'us vs them' drives shares)*
+13. "I dared my friend to name a song from 2004 and it came on within 10 minutes. We both lost it." *(story + coincidence = unbelievable = watch again)*
+14. "This station doesn't play ads. Doesn't repeat tracks. Doesn't shuffle the same 20 songs. I don't know how it's free." *(contrast + disbelief = saves)*
+15. "Whoever is DJing this station right now — I owe you everything." *(parasocial gratitude = deeply relatable)*
 
 ---
 
-### 10 Short Video Scripts (10–12 sec, HIGH ENERGY)
+## 10 VIDEO SCRIPTS — HIGH-CONVERTING REWRITES
 
-**Script 1 — The Discovery Drop**
-> [HOOK: screen shows radio tuner spinning]
-> "I found a live radio station that plays nothing but certified bangers — 24/7."
-> [Cut to: music visualization pumping]
-> "No ads every 3 seconds. No skips needed. Just vibes."
-> [LOOP ENDING: tuner snaps back to start]
-> **Caption:** Listen live now 🔥 link in bio | #liveradio #musicvibes #24x7music
+**Script 1 — The Open Loop (Most Re-watchable Format)**
+> [HOOK: Freeze frame. Text: "I'm about to ruin every playlist you have."]
+> [Cut: Phone screen with station loading, music swells immediately]
+> "One station. Every era. Zero repeats. Zero skips."
+> [Music cuts at peak — screen goes black]
+> "Link in bio. You're welcome."
+> [LOOP: freeze frame reappears — viewer watches again to 'catch' what they missed]
+> **Caption:** Your playlists will never be the same 🔥 link in bio | #liveradio #musicvibes #hiphop #rnb #fyp
 
-**Script 2 — The Nostalgia Hit**
-> [HOOK: lo-fi VHS effect, late-night city b-roll]
-> "Remember when the radio DJ would talk between songs and it felt like they were speaking directly to you?"
-> [Music swell]
-> "That still exists. You just have to know where to go."
-> [LOOP ENDING: screen static → rewind effect]
-> **Caption:** Tap in for nonstop music 🎶 link in bio | #throwback #radiovibes #hiphop
+**Script 2 — The Grief Hook (Highest Share Rate Format)**
+> [HOOK: Dark room, single light. Text appears slowly: "This song played at his funeral."]
+> [Long pause — music begins, low and full]
+> "Some stations just know."
+> [Silence]
+> "Live. 24/7. Link in bio."
+> [LOOP: text fades in again from black]
+> **Caption:** Music that finds you when you need it most 🕊️ link in bio | #nostalgia #rnb #liveradio #emotional #fyp
 
-**Script 3 — The Flex**
-> [HOOK: phone screen recording of station playing]
-> "My morning routine: coffee, this station, zero stress."
-> [Time-lapse of sunrise]
-> "The playlist never misses."
-> [LOOP ENDING: coffee steam loops]
-> **Caption:** Your new favorite station ☕ link in bio | #morningvibes #rnb #musicstream
+**Script 3 — The Disbelief Reaction (Drives Comments)**
+> [HOOK: Genuine face, eyes wide, hand covering mouth]
+> "Wait. Wait wait wait—"
+> [Turns phone to camera, station is mid-song]
+> "I haven't heard this in FIFTEEN YEARS."
+> [Laughs, shakes head]
+> "How does this station know? HOW."
+> [LOOP: reaction resets — viewers watch to feel the same hit]
+> **Caption:** Drop the year you last heard YOUR song 👇 link in bio | #throwback #musicmemory #radiovibes #fyp
 
-**Script 4 — The Challenge**
-> [HOOK: bold text on black screen]
-> "Name a song and I bet it's already in rotation."
-> [Music cuts in hard]
-> "Go ahead. I'll wait."
-> [LOOP ENDING: music cuts back to silence → repeat]
-> **Caption:** 24/7 vibes here 🎧 link in bio | #musicchallenge #liveradio #vibes
+**Script 4 — The Comparison Kill (Drives Saves)**
+> [HOOK: Side-by-side. Left: "Spotify shuffle." Right: "This station."]
+> [Left plays 3 seconds of overly familiar hit. Cut.]
+> [Right plays 3 seconds of deep cut banger that immediately hits. Cut.]
+> [Text: "Not even close."]
+> [LOOP: comparison resets — viewers rewatch to confirm]
+> **Caption:** You already know which one wins 🎯 link in bio | #liveradio #spotifyvsradio #musicstream #hiphop #fyp
 
-**Script 5 — The Reaction**
-> [HOOK: genuine shocked face, pointing at phone]
-> "I opened this station randomly and the first song was EXACTLY what I needed."
-> [Pause for effect]
-> "That's not a coincidence. That's just good radio."
-> [LOOP ENDING: shocked face loops]
-> **Caption:** Listen live now 🔥 link in bio | #goodmusic #radiostation #musiclover
+**Script 5 — The 3AM Format (Late Night Algorithm Gold)**
+> [HOOK: Time stamp on phone. 3:07 AM. Station playing softly.]
+> [Whisper] "I should be asleep."
+> [Beat drops quietly]
+> "I'm not."
+> [Hold on the music. Don't say anything else.]
+> [LOOP: timestamp resets — intimacy loops perfectly]
+> **Caption:** If you know, you know 🌙 link in bio | #3am #latenightvibes #rnb #insomnia #liveradio
 
-**Script 6 — The Late Night**
-> [HOOK: dark room, single lamp, city lights]
-> "3am. Can't sleep. This is the only station that gets it."
-> [Slow music swell, vibe shift]
-> [LOOP ENDING: lamp flickers → back to dark]
-> **Caption:** Tap in for nonstop music 🌙 link in bio | #latenightvibes #rnbmusic #insomniaplaylist
+**Script 6 — The Identity Hook (Drives Follows)**
+> [HOOK: Black screen. White text: "People with good taste already know about this station."]
+> [Music drops — something undeniably certified plays]
+> [Hold for 6 seconds — let the music speak]
+> [Text fades in: "And now so do you."]
+> [LOOP: Black screen resets — viewer feels included again]
+> **Caption:** Your taste just got validated 🤝 link in bio | #musicculture #goodtaste #hiphop #rnb #fyp
 
-**Script 7 — The Comparison**
-> [HOOK: split screen — generic playlist vs. live radio]
-> "Spotify playlist: same 15 songs on shuffle."
-> "This station: something different every single time."
-> "Live radio just hits different."
-> [LOOP ENDING: split screen snaps back]
-> **Caption:** Your new favorite station 🔥 link in bio | #liveradio #musicstream #spotifyalternative
+**Script 7 — The Memory Trigger (Highest Nostalgia ROI)**
+> [HOOK: VHS grain. Text fades in: "Summer. 2007."]
+> [Music from that era hits immediately]
+> [Flash: school hallway. Flash: old phone. Flash: sunroof down.]
+> [Text: "That feeling? It's still here."]
+> [LOOP: VHS grain resets — nostalgia is infinitely re-watchable]
+> **Caption:** What year do you go back to? 👇 link in bio | #2000s #throwback #nostalgia #hiphopclassics #fyp
 
-**Script 8 — The Throwback Trigger**
-> [HOOK: year text flashes — 2002… 2006… 2011…]
-> "Every era. Every hit. No skips."
-> [Clips of music eras flash]
-> "This is what radio was supposed to be."
-> [LOOP ENDING: years loop back]
-> **Caption:** 24/7 vibes here 🎵 link in bio | #throwbackmusic #hiphopclassics #rnbclassics
+**Script 8 — The Secret Society Hook (Drives Shares)**
+> [HOOK: Whisper. Close camera. Finger to lips.]
+> "I probably shouldn't be sharing this."
+> [Beat]
+> "There's a station. Plays everything. 24/7. Free."
+> [Smirk]
+> "Too good to keep to myself."
+> [LOOP: finger to lips resets — complicity loops perfectly]
+> **Caption:** Don't tell everyone 👀 link in bio | #hiddengem #liveradio #musicdiscovery #undergroundradio #fyp
 
-**Script 9 — The Exclusive Feel**
-> [HOOK: whisper voice, close camera]
-> "Not everyone knows about this station. Keep it lowkey."
-> [Smirk, music drops]
-> "Actually no — share it. They need to hear this."
-> [LOOP ENDING: whisper loops]
-> **Caption:** Listen live now 👀 link in bio | #undergroundradio #hiddengem #musicdiscovery
+**Script 9 — The Challenge Bait (Drives Comments + Watch Time)**
+> [HOOK: Bold text — "Name ANY song. I guarantee it's in rotation."]
+> [Music visualization spinning, no cut]
+> [Hold for full 8 seconds — dead silence except music]
+> [Text: "Drop it. I'll wait."]
+> [LOOP: challenge resets — viewers stay to post their comment]
+> **Caption:** Drop your song 👇 and link in bio to hear it live | #musicchallenge #liveradio #fyp #hiphop #rnb
 
-**Script 10 — The Pure Energy**
-> [HOOK: bass drop visual, screen shake effect]
-> "THIS. STATION. DOES. NOT. MISS."
-> [5 rapid fire song clips, each one slapping]
-> "Every. Single. Time."
-> [LOOP ENDING: bass drop loops]
-> **Caption:** Tap in for nonstop music 💥 link in bio | #hiphop #rnb #livemusic
+**Script 10 — The Pure Emotion Close (Highest CTA Conversion)**
+> [HOOK: Slow zoom into lit cityscape at night. Music already playing.]
+> [No words for 6 full seconds — just city + music]
+> [Single line of text fades in: "This is the station."]
+> [Music swells one more beat — cut to black]
+> [LOOP: city lights reset — ambient loop is deeply re-watchable]
+> **Caption:** Some things you don't explain. You just tap in. 🔥 link in bio | #liveradio #cityvibes #latenightmusic #rnb #fyp
 
 ---
 
-### 5 Pinterest Posts (SEO Optimized)
+## 5 PINTEREST PINS — REWRITTEN FOR CLICK-THROUGH
 
 **Pin 1**
-- **Title:** Best Late Night Music Playlist 2026 — Live Radio You Need
-- **Description:** Looking for the perfect late night music stream? LiveLiveRadio plays 24/7 hip hop, R&B, throwbacks, and new hits — no interruptions, just vibes. The best live radio experience online. Stream free now. #musicstream #latenightplaylist #liveradio #rnb #hiphop #musicvibes #freeradio
+- **Title:** The Late Night Music Playlist That Actually Hits — Live Radio 2026
+- **Description:** It's past midnight and you need something that feels like it was made for this exact moment. This live radio stream plays 24/7 hip hop, R&B, and throwbacks — no ads, no repeats, no algorithm deciding what mood you're in. Real DJs. Real music. Free. Tap to stream now. | music stream, live radio, late night playlist, hip hop, R&B, free music, vibes, 2026 playlist, online radio
 
 **Pin 2**
-- **Title:** Underground Radio Stations You Need to Hear in 2026
-- **Description:** Tired of the same mainstream playlists? This live radio stream goes deeper — classic hip hop, soulful R&B, and underground vibes curated for real music lovers. Listen free, no account needed. #undergroundhiphop #rnbmusic #musicdiscovery #livestream #radioonline #musiclover
+- **Title:** The Underground Radio Station the Algorithm Doesn't Want You to Find
+- **Description:** If you're tired of the same 40 songs Spotify keeps shuffling — this is for you. LiveLiveRadio streams the songs that made hip hop and R&B what it is. Deep cuts, classics, certified bangers, 24/7. No account. No subscription. Just music. | underground radio, hip hop stream, R&B music, music discovery, live radio station, best online radio, free music stream, slept on music
 
 **Pin 3**
-- **Title:** Free Music Streaming — 24/7 Hip Hop and R&B Live Radio
-- **Description:** Stream live hip hop and R&B music 24 hours a day, 7 days a week. No subscriptions. No skips. Pure music. Perfect for studying, driving, late nights, or just vibing out. Link to tune in. #freemusicstream #hiphopradio #rnbradio #studymusic #backgroundmusic #vibes
+- **Title:** Free 24/7 Hip Hop & R&B Radio — No Ads, No Skips, No Limits
+- **Description:** Stream live hip hop and R&B 24 hours a day. No subscription required. No algorithm. No skipping songs you love. Perfect background music for late nights, study sessions, road trips, or when you just need something real playing. Tune in free — link below. | free music streaming, hip hop radio, R&B radio, study music, background music, live music stream, online radio 2026
 
 **Pin 4**
-- **Title:** Throwback Music Playlist — Hits from 2000s, 2010s & More
-- **Description:** Hit play on the best throwback music stream online. From early 2000s hip hop to 2010s R&B bangers — it's all here, live and nonstop. Remember when radio was actually good? This is that. #throwbackmusic #2000shiphop #2010srnb #nostalgiaplaylist #oldschoolhiphop #musicstream
+- **Title:** 2000s & 2010s Throwback Hits — The Best Nostalgia Playlist Is Live Right Now
+- **Description:** Remember the songs that defined everything? The ones you heard on the radio driving home from school, at the summer cookout, on the night everything changed? They're all in rotation — live, free, nonstop. This is what radio used to feel like. | throwback music, 2000s hip hop, 2010s R&B, nostalgia playlist, old school hits, classic radio, best throwback songs, music stream
 
 **Pin 5**
-- **Title:** Best Online Radio Station for Hip Hop, R&B & Vibes — 2026
-- **Description:** Discover the best online radio station for hip hop, R&B, and good vibes. Live stream 24/7, totally free. No algorithm — just great music picked for the culture. Tap in. #bestradiostation #onlineradio #hiphopvibes #rnbplaylist #musicculture #liveradio
+- **Title:** Best Online Radio Station 2026 — Hip Hop, R&B & Certified Vibes Only
+- **Description:** Not curated by an algorithm. Not a recycled playlist. This is a live radio station built for people who actually care about music — hip hop, R&B, soul, throwbacks, and everything in between. Streaming 24/7, completely free. Real music for real listeners. | best online radio 2026, hip hop vibes, R&B playlist, live radio stream, music culture, certified bangers, free radio, music community
 
 ---
 
-### 3 Blog Post Ideas
+## 3 BLOG POSTS — OPTIMIZED TITLES & ANGLES
 
-**Blog 1 — Music Discovery**
-- **Title:** "10 Songs You Forgot You Loved (And Where to Hear Them Live)"
-- **Angle:** Nostalgia-driven list post. Each song hooks the reader emotionally, then closes with a CTA to hear them on the live stream. High shareability.
-- **SEO Target:** "forgotten songs from the 2000s", "throwback music playlist", "songs I used to love"
+**Blog 1**
+- **Title:** "These 10 Songs Disappeared From the Radio and Nobody Talked About It"
+- **Upgraded Angle:** Lead with a mystery. Why did these songs vanish? Briefly tease each track with one emotional sentence. End with: *"They're all still playing somewhere. You just have to know where to look."* CTA to station.
+- **SEO + Emotional Target:** "songs that disappeared from radio", "forgotten 2000s hits", "songs nobody plays anymore" — anger + nostalgia cocktail = max shares
 
-**Blog 2 — Playlist Feature**
-- **Title:** "The Late Night Playlist That Hits Different After Midnight"
-- **Angle:** Lifestyle post. Paints a picture of the perfect late night vibe. Lists 10–15 tracks in the rotation. Sells the *feeling* of the station, not just the music.
-- **SEO Target:** "late night music playlist", "best music for night drives", "midnight vibes playlist 2026"
+**Blog 2**
+- **Title:** "It's 2AM. You're Not Sleeping. Here's the Only Playlist That Makes Sense."
+- **Upgraded Angle:** Write in second person. Put the reader *in* the moment — dark room, phone screen, the weight of the night. The playlist IS the station. Every track described in one visceral sentence. CTA is the ending, not an afterthought.
+- **SEO + Emotional Target:** "2am music playlist", "can't sleep music", "late night drive playlist 2026" — insomnia + loneliness = highest time-on-page
 
-**Blog 3 — Artist Highlight**
-- **Title:** "Artists the Algorithm Keeps Burying (But Real Fans Already Know)"
-- **Angle:** Positions the station as a place where underrated artists get shine. Name 5–7 artists, brief profiles, embed stream at the end. Shareable with artist fan bases.
-- **SEO Target:** "underrated hip hop artists 2026", "slept on R&B artists", "music you need to hear"
-
----
-
-## STEP 2 — VIRAL FORMULA (Applied to Every Video)
-
-```
-[0–2 sec]  HOOK     → Curiosity, nostalgia, or bold claim
-[2–8 sec]  CONTENT  → Deliver on the hook, build the feeling
-[8–10 sec] CTA      → "Listen live now 🔥 link in bio"
-[10–12sec] LOOP     → Ending visually/audibly connects back to the opening
-```
-
-**Caption Template:**
-```
-[Emotional statement or continuation of hook]
-[CTA]
-[3–5 hashtags from trending + niche mix]
-```
-
-**Hashtag Stack (rotate these):**
-`#liveradio` `#hiphop` `#rnb` `#musicvibes` `#throwback` `#musicstream` `#radiostation` `#latenightvibes` `#goodmusic` `#musiclover` `#vibes` `#nostalgia` `#freemusic` `#onlineradio` `#24x7music`
+**Blog 3**
+- **Title:** "The Algorithm Has Been Burying These Artists. We're Not Letting That Happen."
+- **Upgraded Angle:** Position the station as the resistance. Name 5–7 artists the algorithm slept on. For each: one quote, one song, one line about why they matter. Closes with: *"They don't need a label's push. They need a station that doesn't flinch."* Maximum shareability with artist fanbases.
+- **SEO + Emotional Target:** "slept on hip hop artists 2026", "underrated R&B artists", "artists the industry ignores" — tribalism + injustice = viral in music communities
 
 ---
 
-## STEP 3 — TRAFFIC FUNNEL
+## HIGH-CONVERTING BIO & CTA REWRITES
 
+**TikTok Bio (Click-Optimized):**
 ```
-TikTok / Pinterest / Blog → Bio Link → liveliveradio.wordpress.com
-```
-
-**TikTok Bio (optimized for clicks):**
-```
-🎵 24/7 Hip Hop & R&B Live Radio
-No algorithm. Just certified bangers.
-🔥 Tap the link — tune in free
+🎙️ The last real radio station.
+Hip Hop • R&B • Throwbacks • 24/7
+🔥 Free. No algorithm. Just the music.
+👇 Tune in now
 ```
 
-**CTA Variations (rotate across posts):**
-- "Listen live now 🔥 link in bio"
-- "24/7 vibes — link in bio"
-- "Tap in for nonstop music 🎶"
-- "Your new favorite station → link in bio"
-- "Real radio is still alive 👇 link in bio"
-- "Stream free, no sign-up 🎧 link in bio"
-- "The vibe you've been missing → link in bio"
-
----
-
-## STEP 4 — PINTEREST TRAFFIC STRATEGY
-
-Pinterest SEO keywords to embed in every pin description:
-- `music stream` / `live music stream`
-- `live radio` / `online radio`
-- `hip hop playlist` / `R&B playlist`
-- `free music` / `music discovery`
-- `vibes` / `late night music`
-- `throwback playlist` / `old school hits`
-
-**Board Names to Create:**
-1. "Hip Hop & R&B Vibes 2026"
-2. "Late Night Music Playlists"
-3. "Throwback Hits — 2000s & 2010s"
-4. "Free Live Radio Stations"
-5. "Music Discovery 2026"
-
-Pin consistently: **3–5 pins/day** across boards, linking back to the site.
-
----
-
-## STEP 5 — COMMENT STRATEGY
-
-> **Note:** Keep comments authentic-sounding. Avoid spammy repetition — vary phrasing. Focus on relevant videos where your audience already is.
-
-**Target Videos:** Viral music reaction videos, throwback song compilations, hip hop/R&B top 10 lists, "songs that hit different" compilations.
-
-**10 Comment Templates:**
-
-1. "This reminds me of exactly what's in rotation on my station right now 🔥"
-2. "If you like this you need to find a live radio station that actually plays this energy nonstop 👀"
-3. "The nostalgia is real — this whole era of music deserves its own 24/7 stream"
-4. "Bro I have this on my live station right now, wild timing 😭"
-5. "Real music like this is why I started streaming radio instead of playlists"
-6. "This took me back. The good era. We need more stations playing this type of energy"
-7. "Not gonna lie this whole comment section has better taste than most algorithm-generated playlists"
-8. "If you're vibing to this you'd be dangerous with a 24/7 live radio stream 🎵"
-9. "This song + late night driving + live radio = perfect combo"
-10. "The people in this comment section clearly have the best taste — y'all would love a good live stream"
-
----
-
-## STEP 6 — DAILY POSTING SCHEDULE
-
-### Optimal Post Times (EST)
-
-| Time | Platform | Content Type |
-|------|----------|-------------|
-| 7:00 AM | TikTok | Morning energy hook (Scripts 3, 7) |
-| 9:00 AM | Pinterest | Pin 1–2 from daily batch |
-| 12:00 PM | TikTok | Hype/challenge hook (Scripts 4, 10) |
-| 2:00 PM | Pinterest | Pin 3–4 from daily batch |
-| 5:00 PM | TikTok | Nostalgia/throwback hook (Scripts 2, 8) |
-| 7:00 PM | Pinterest | Pin 5 from daily batch |
-| 9:00 PM | TikTok | Late night vibe hook (Scripts 6, 1) |
-| 10:00 PM | Comment | Drop 3–5 comments on trending music videos |
-| 11:00 PM | TikTok | Final post — mystery/curiosity hook (Scripts 9, 5) |
-
-**Weekly Blog Schedule:**
-- Monday: Blog 2 (Late Night Playlist)
-- Wednesday: Blog 1 (Forgotten Songs)
-- Friday: Blog 3 (Artist Highlight)
-
----
-
-## STEP 7 — SCALE SYSTEM
-
-### Week 1: Baseline
-- Post all 10 videos using the scripts above
-- Track which hooks get the most watch time / comments / saves
-- Note which hashtags drive the most profile visits
-
-### Week 2: Double Down
-- Identify top 3 performing hooks
-- Create 3 variations of each (same format, different song/era/angle)
-- Increase to 3 TikToks/day
-
-### Week 3: Format Lock
-- Lock in the 2 best performing formats
-- Batch-produce 21 videos (1 week ahead)
-- Start Repurposing: TikToks → YouTube Shorts → Instagram Reels
-
-### Week 4: Amplify
-- Re-boost top 5 performing posts organically (comment engagement, share prompts)
-- Cross-promote: add station link to YouTube video descriptions
-- Test 1 Pinterest Idea Pin per day (video-style pins get 3x reach)
-
-### Growth Metrics to Watch Weekly:
-- TikTok: Profile visits, link clicks, watch time %
-- Pinterest: Outbound clicks, monthly viewers, save rate
-- Site: Daily sessions, bounce rate, avg. session duration
-
----
-
-## QUICK REFERENCE — CONTENT CHECKLIST (Daily)
-
-- [ ] Post 3–4 TikToks (rotate hooks from batch)
-- [ ] Pin 3–5 Pinterest pins (SEO descriptions, site link)
-- [ ] Drop 3–5 comments on trending music videos
-- [ ] 1 blog post (Mon/Wed/Fri)
-- [ ] Check analytics — note top performer
-- [ ] Duplicate winning format for next day
+**CTA Variations — Ranked by Conversion Potential:**
+1. "This is the one. Link in bio." *(confidence = trust)*
+2. "You've been looking for this. Link in bio." *(validation = clicks)*
+3. "Free. 24/7. No excuses. Link in bio." *(eliminates friction)*
+4. "The station that never misses. Live now. 👇" *(bold claim = curiosity)*
+5. "Real music for real ones. Link in bio 🎵" *(identity appeal)*
+6. "It's already playing. Tap in. 🔥" *(urgency + FOMO)*
+7. "Don't scroll past this. Link in bio." *(direct pattern interrupt)*
