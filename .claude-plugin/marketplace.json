@@ -51,5 +51,15 @@
         "./skills/claude-api"
       ]
     }
+    ,
+    {
+      "name": "music-marketing-agent",
+      "description": "Organic music marketing and fan-growth operations for recording artists: daily content runs, short-form video hooks and captions, streaming and YouTube SEO, curator outreach, and weekly performance reporting",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/music-marketing-agent"
+      ]
+    }
   ]
 }
